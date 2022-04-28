@@ -1,0 +1,15 @@
+.touch-action {
+  touch-action: pan-y;
+}
+
+.carousel-item {
+  height: 42rem;
+}
+
+#carousel-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 42rem;
+}
